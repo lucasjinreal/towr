@@ -30,6 +30,17 @@ make -j8
 sudo make install
 ```
 
+2. Build towr
+
+```
+cd towr
+mkdir build
+cd build
+cmake ..
+make -j8
+sudo make install
+```
+
 
 
 --------------------
