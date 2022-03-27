@@ -1,0 +1,12 @@
+Algorithm/LinearSolvers/IpLinearSolvers.lo: \
+  Algorithm/LinearSolvers/IpLinearSolvers.c \
+  Algorithm/LinearSolvers/IpLinearSolvers.h ../src/Common/IpoptConfig.h \
+  ../src/Common/config.h ../src/Common/IpTypes.h
+
+Algorithm/LinearSolvers/IpLinearSolvers.h:
+
+../src/Common/IpoptConfig.h:
+
+../src/Common/config.h:
+
+../src/Common/IpTypes.h:
