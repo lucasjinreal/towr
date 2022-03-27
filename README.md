@@ -41,6 +41,7 @@ make -j8
 sudo make install
 ```
 
+then you can build `towr_phys_optim` module or using towr for physics based optimization.
 
 
 --------------------
